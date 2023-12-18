@@ -35,7 +35,6 @@ int dynamicArrayDeleteAppointPosData();
 int dynamicArrayDestroy();
 
 /* 获取数组的大小 */
-int dynamicArrayGetCapacity();
-
+int dynamicArrayGetSize();
 
 #endif  //  __DYNAMIC_ARRAY_H_
